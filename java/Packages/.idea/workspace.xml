@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7d2adbab-7e96-4c66-adea-450e2e659b81" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ProjectId" id="1Wjz7FiCFBMROLIIXxyAm8RfKBC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="Packages" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d2adbab-7e96-4c66-adea-450e2e659b81" name="Default Changelist" comment="" />
+      <created>1579677622366</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579677622366</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2618" y="191" key="SettingsEditor" timestamp="1579678335696">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2618" y="191" key="SettingsEditor/1680.23.1920.1057/0.23.1680.945@1680.23.1920.1057" timestamp="1579678335696" />
+    <state x="2388" y="157" key="new project wizard" timestamp="1579751845495">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2388" y="157" key="new project wizard/1680.23.1920.1057/0.23.1680.945@1680.23.1920.1057" timestamp="1579678574109" />
+    <state x="2388" y="157" key="new project wizard/1680.23.1920.1057/0.23.1680.948@1680.23.1920.1057" timestamp="1579751845495" />
+  </component>
+</project>

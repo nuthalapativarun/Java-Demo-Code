@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="PackageDemo2:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="43d0877f-cd00-4a02-bdcc-8455b8b4b2ce" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WmPYe5iqJzXvY7DFHKY33E4pQO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="packagedemo2" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.game" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.game.Main" />
+      <module name="PackageDemo2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.myPackage.Main" />
+      <module name="PackageDemo2" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43d0877f-cd00-4a02-bdcc-8455b8b4b2ce" name="Default Changelist" comment="" />
+      <created>1579751845716</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579751845716</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="804" height="290" key="GridCell.Tab.0.bottom" timestamp="1579763289558">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state width="804" height="290" key="GridCell.Tab.0.bottom/1680.23.1920.1057/0.23.1680.948@1680.23.1920.1057" timestamp="1579763289558" />
+    <state width="804" height="290" key="GridCell.Tab.0.center" timestamp="1579763289557">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state width="804" height="290" key="GridCell.Tab.0.center/1680.23.1920.1057/0.23.1680.948@1680.23.1920.1057" timestamp="1579763289557" />
+    <state width="804" height="290" key="GridCell.Tab.0.left" timestamp="1579763289557">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state width="804" height="290" key="GridCell.Tab.0.left/1680.23.1920.1057/0.23.1680.948@1680.23.1920.1057" timestamp="1579763289557" />
+    <state width="804" height="290" key="GridCell.Tab.0.right" timestamp="1579763289557">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state width="804" height="290" key="GridCell.Tab.0.right/1680.23.1920.1057/0.23.1680.948@1680.23.1920.1057" timestamp="1579763289557" />
+    <state x="2576" y="134" key="SettingsEditor" timestamp="1579757652994">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2576" y="134" key="SettingsEditor/1680.23.1920.1057/0.23.1680.948@1680.23.1920.1057" timestamp="1579757652994" />
+    <state x="2388" y="156" key="new project wizard" timestamp="1579763287647">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2388" y="156" key="new project wizard/1680.23.1920.1057/0.23.1680.948@1680.23.1920.1057" timestamp="1579763287647" />
+  </component>
+</project>
